@@ -1,0 +1,6 @@
+{
+  "name": "🎄 Christmas School Teacher Portal",
+  "description": "Teacher Portal for Victor's Christmas School Christmas 2026 attendance, students, events, and announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
